@@ -9,6 +9,8 @@ Project goals:
   + Gene names that cause the disease
   + Disease localization
 
+![alt text](https://github.com/Wonseokkyang/One-Day-Project---MongoDB-Pymongo/blob/master/graph.jpg)
+
 
 Data aquired from HetioNet.
 - <file> `nodes.tsv`
