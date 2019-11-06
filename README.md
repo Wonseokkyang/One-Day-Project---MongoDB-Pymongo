@@ -11,15 +11,15 @@ Project goals:
 
 
 Data aquired from HetioNet.
-- <file> nodes.tsv
+- <file> `nodes.tsv`
   -  TSV file of database nodes; Disesases, Genes, Anatomy, Compound.
-- <file> edges.tsv
+- <file> `edges.tsv`
   -  TSV file of relationships between nodes; Up regulates, down regulates, associates, expresses, interacts, covaries, regulates, binds, treats, paliates, resembles, localizes.
   
 Project files:
-<file> process_nodes.py
-  Pymongo script uded to process database nodes for document assimilation.
-<file> process_edges.py
-  Pymongo script used to process database node relationships for document assimilation.
-<file> query.py
-  Pymongo script used to access database for document queries.
+- <file> `process_nodes.py`
+  -  Pymongo script uded to process database nodes for document assimilation.
+- <file> `process_edges.py`
+  -  Pymongo script used to process database node relationships for document assimilation.
+- <file> `query.py`
+  -  Pymongo script used to access database for document queries.
